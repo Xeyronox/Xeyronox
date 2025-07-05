@@ -3,10 +3,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Login-zynthera-000000?style=for-the-badge&logo=github&logoColor=black" alt="Login"/>
-  <img src="https://img.shields.io/badge/System-v8.0.0-00FF00?style=for-the-badge&logo=security&logoColor=white" alt="Version"/>
+  <img src="https://img.shields.io/badge/System-v8.0.0-000000?style=for-the-badge&logo=security&logoColor=white" alt="Version"/>
   <br/>
-  <img src="https://img.shields.io/badge/Response_Time-0.0001ms-00FF00?style=for-the-badge" alt="Speed"/>
-  <img src="https://img.shields.io/badge/Status-QUANTUM_ACTIVE-00FF00?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Response_Time-0.0001ms-000000?style=for-the-badge" alt="Speed"/>
+  <img src="https://img.shields.io/badge/Status-QUANTUM_ACTIVE-000000?style=for-the-badge" alt="Status"/>
   <img src="https://img.shields.io/badge/Auto_Heal-ENABLED-00FF00?style=for-the-badge" alt="Auto Heal"/>
 </div>
 
