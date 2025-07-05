@@ -2,8 +2,7 @@
     <img src="https://github.com/zynthera/zyntheras/raw/master/public/hh.png" alt="XploitNinja Banner" width="1200"/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Current_Time_(UTC)-2025--07--05_17:14:06-00FF00?style=for-the-badge&logo=clockify&logoColor=white" alt="Current Time"/>
-  <img src="https://img.shields.io/badge/Login-zynthera-00FF00?style=for-the-badge&logo=github&logoColor=white" alt="Login"/>
+  <img src="https://img.shields.io/badge/Login-zynthera-000000?style=for-the-badge&logo=github&logoColor=black" alt="Login"/>
   <img src="https://img.shields.io/badge/System-v8.0.0-00FF00?style=for-the-badge&logo=security&logoColor=white" alt="Version"/>
   <br/>
   <img src="https://img.shields.io/badge/Response_Time-0.0001ms-00FF00?style=for-the-badge" alt="Speed"/>
