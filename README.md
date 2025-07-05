@@ -18,7 +18,7 @@
 
 <div align="center">
   <h2>💰 Bug Bounty Programs</h2>
-  <img src="https://img.shields.io/badge/Bugcrowd-Top_300-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bugcrowd-Top_10000-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
 </div>
 
 <div align="center">
