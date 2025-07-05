@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=50&duration=1500&pause=800&color= F5F5DC&background= 00000&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=175&lines=XploitNinja+|Neural+Self-Healing+System+v8.0.0;Status:+Quantum+Perfection+|+Uptime:+∞" alt="Header"/>
-</div>
+  <img src=""/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Current_Time_(UTC)-2025--07--05_17:14:06-00FF00?style=for-the-badge&logo=clockify&logoColor=white" alt="Current Time"/>
