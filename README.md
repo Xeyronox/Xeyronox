@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=""/>
+  <img src="https://github.com/zynthera/zynthera/raw/master/public/hh.png"/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Current_Time_(UTC)-2025--07--05_17:14:06-00FF00?style=for-the-badge&logo=clockify&logoColor=white" alt="Current Time"/>
