@@ -7,7 +7,7 @@
   <br/>
   <img src="https://img.shields.io/badge/Response_Time-0.0001ms-000000?style=for-the-badge" alt="Speed"/>
   <img src="https://img.shields.io/badge/Status-QUANTUM_ACTIVE-000000?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/Auto_Heal-ENABLED-00FF00?style=for-the-badge" alt="Auto Heal"/>
+  <img src="https://img.shields.io/badge/Auto_Heal-ENABLED-000000?style=for-the-badge" alt="Auto Heal"/>
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
 <div align="center">
   <h3>🔒 Elite Security Tools</h3>
   <img src="https://img.shields.io/badge/Nmap-Quantum-009933?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-Elite-FF0000?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-Elite-000000?style=for-the-badge&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/Burp_Suite-Master-FF6633?style=for-the-badge&logo=hackaday&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-Elite-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <br/>
