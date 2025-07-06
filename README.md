@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/zynthera/zyntheras/raw/master/public/hh.png" alt="XploitNinja Banner" width="1200"/>
+    <img src="https://github.com/zynthera/zyntheras/raw/master/public/hh.png" alt="XploitNinja Banner" height ="200" width="1200"/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Login-zynthera-000000?style=for-the-badge&logo=github&logoColor=black" alt="Login"/>
