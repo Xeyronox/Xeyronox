@@ -1,10 +1,10 @@
 <div align="center">
-    <img width="1200" src="https://github.com/zynthera/zyntheras/raw/master/public/hh.png" alt="XploitNinja Banner"/>
+    <img width="1200" src="https://github.com/Xeyronox/zyntheras/raw/master/public/hh.png" alt="Xeyronox Banner"/>
 
 
 <div align="center">
   <h2>🏆 GitHub Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=zynthera&theme=matrix&no-frame=false&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Achievements"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Xeyronox&theme=matrix&no-frame=false&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Achievements"/>
 </div>
 
 <div align="center">
@@ -57,18 +57,18 @@
 
 <div align="center">
   <h3>🌐 Network Matrix</h3>
-  <a href="https://www.youtube.com/@XploitNinja"><img src="https://img.shields.io/badge/YouTube-@XploitNinja-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://github.com/zynthera"><img src="https://img.shields.io/badge/GitHub-zynthera-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://instagram.com/xploit.ninja"><img src="https://img.shields.io/badge/Instagram-xploit.ninja-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linktr.ee/xploitninja"><img src="https://img.shields.io/badge/LinkTree-xploitninja-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@Xeyronox"><img src="https://img.shields.io/badge/YouTube-@Xeyronox-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://github.com/Xeyronox"><img src="https://img.shields.io/badge/GitHub-Xeyronox-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://instagram.com/Xeyronox"><img src="https://img.shields.io/badge/Instagram-Xeyronox-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linktr.ee/Xeyronox"><img src="https://img.shields.io/badge/LinkTree-Xeyronox-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 </div>
 
 <div align="center">
 
   <h3>📊 Performance Matrix</h3>
-  <img width="800" src="https://github-readme-stats.vercel.app/api?username=zynthera&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00&custom_title=Quantum+Performance+Analytics"/>
+  <img width="800" src="https://github-readme-stats.vercel.app/api?username=Xeyronox&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00&custom_title=Quantum+Performance+Analytics"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zynthera&theme=dark&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xeyronox&theme=dark&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00"/>
 </div>
 
 <div align="center">
@@ -81,7 +81,7 @@
   Bug Bounty Status: Active | Hall of Fame: Multiple | CVEs: Published
   </code>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=zynthera&color=00FF00&style=for-the-badge&label=PROFILE+MATRIX" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Xeyronox&color=00FF00&style=for-the-badge&label=PROFILE+MATRIX" alt="Profile Views"/>
 </div>
 
 <!-- Quantum Protocol v8.0.0 | Last Update: 2025-07-05 17:14:06 UTC -->
