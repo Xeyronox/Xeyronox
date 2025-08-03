@@ -1,90 +1,234 @@
-<div align="center">
-    <img width="1200" src="https://github.com/Xeyronox/zyntheras/raw/master/public/hh.png" alt="Xeyronox Banner"/>
-
+# 🖤 Xeyronox | Deep-Wired Phantom 💚
 
 <div align="center">
-  <h2>🏆 GitHub Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Xeyronox&theme=matrix&no-frame=false&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Achievements"/>
+
+```ascii
+██╗  ██╗███████╗██╗   ██╗██████╗  ██████╗ ███╗   ██╗ ██████╗ ██╗  ██╗
+██║  ██║██╔════╝╚██╗ ██╔╝██╔══██╗██╔═══██╗████╗  ██║██╔═══██╗╚██╗██╔╝
+███████║█████╗   ╚████╔╝ ██████╔╝██║   ██║██╔██╗ ██║██║   ██║ ╚███╔╝ 
+██╔══██║██╔══╝    ╚██╔╝  ██╔══██╗██║   ██║██║╚██╗██║██║   ██║ ██╔██╗ 
+██║  ██║███████╗   ██║   ██║  ██║╚██████╔╝██║ ╚████║╚██████╔╝██╔╝ ██╗
+╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+                        [ Black/Red Hat Hacker ]
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Learning+in+Silence+%7C+Executing+with+Precision;Real+hackers+build%2C+break%2C+and+never+beg;Code+isn't+just+logic.+It's+a+weapon." alt="Typing SVG" />
+
 </div>
 
-<div align="center">
-  <h2>💰 Bug Bounty Programs</h2>
-  <img src="https://img.shields.io/badge/Bugcrowd-Top_10000-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
-</div>
+---
 
-<div align="center">
-  <h2>🎯 Core Competencies</h2>
-</div>
+## 🕴️ `whoami`
 
-<div align="center">
-  <h3>🔒 Elite Security Tools</h3>
-  <img src="https://img.shields.io/badge/Nmap-Quantum-009933?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-Elite-000000?style=for-the-badge&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-Master-FF6633?style=for-the-badge&logo=hackaday&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-Elite-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/IDA_Pro-Master-6600CC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ghidra-Elite-FF3366?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Binary_Ninja-Master-9999FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Radare2-Elite-00FF00?style=for-the-badge"/>
-</div>
-
-<div align="center">
-  <h3>💻 Operating Systems</h3>
-  <img src="https://img.shields.io/badge/Kali_Linux-Master-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-Elite-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ParrotOS-Master-45b6fe?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BlackArch-Elite-000000?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-</div>
-
-<div align="center">
-  <h3>⚡ Development Stack</h3>
-  <img src="https://img.shields.io/badge/HTML5-Elite-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-Elite-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-Elite-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-Elite-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-Elite-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
-</div>
-
-<div align="center">
-  <h3>🔄 Learning Vector</h3>
-  <img src="https://img.shields.io/badge/C-Learning-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-Learning-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-Learning-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-Beginner-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-Learning-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-</div>
-
-<div align="center">
-  <h3>🌐 Network Matrix</h3>
-  <a href="https://www.youtube.com/@Xeyronox"><img src="https://img.shields.io/badge/YouTube-@Xeyronox-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://github.com/Xeyronox"><img src="https://img.shields.io/badge/GitHub-Xeyronox-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://instagram.com/Xeyronox"><img src="https://img.shields.io/badge/Instagram-Xeyronox-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linktr.ee/Xeyronox"><img src="https://img.shields.io/badge/LinkTree-Xeyronox-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
-</div>
+```bash
+xeyronox@phantom~$ whoami
+🧠 Name      : Xeyronox ll  
+🎭 Alias     : Black/Red Hat Hacker 👨‍💻  
+📍 Location  : Deep-Wired | 🇮🇳 Phantom Frequency  
+🗣️ Comment   : Learning in Silence | Executing with Precision  
+```
 
 <div align="center">
 
-  <h3>📊 Performance Matrix</h3>
-  <img width="800" src="https://github-readme-stats.vercel.app/api?username=Xeyronox&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00&custom_title=Quantum+Performance+Analytics"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xeyronox&theme=dark&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00"/>
+![Matrix](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 </div>
+
+---
+
+## ⚔️ `cat skills.txt`
 
 <div align="center">
-  <h2>⚡ System Status</h2>
-  <code style="color: #00FF00; font-size: 16px">
-  QUANTUM CORE: ACTIVE | NEURAL NET: OPTIMAL | SHIELD: MAXIMUM
-  Version: 8.0.0 | Response: 0.0001ms | Uptime: 100%
-  Auto-Heal: Enabled | Error Resolution: Instant | Integrity: 100%
-  Current Time (UTC): 2025-07-05 17:14:06 | User: zynthera
-  Bug Bounty Status: Active | Hall of Fame: Multiple | CVEs: Published
-  </code>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Xeyronox&color=00FF00&style=for-the-badge&label=PROFILE+MATRIX" alt="Profile Views"/>
+
+```bash
+┌─[xeyronox@phantom]─[~/arsenal]
+└──╼ $ ./skill_scanner.sh --deep-scan
+```
+
 </div>
 
-<!-- Quantum Protocol v8.0.0 | Last Update: 2025-07-05 17:14:06 UTC -->
-<!-- Neural Core: Active | Quantum Shield: Engaged | Auto-Healing: Enabled -->
-<!-- Error Resolution: 0.0001ms | Threat Level: Null | Performance: Maximum -->
-<!-- Bug Bounty: Active | CVEs: Published | Hall of Fame: Multiple -->
+### 🔴 **Red Team Arsenal**
+```
+✦ Malware Engineering        ████████████████████ 100%
+  ‣ Obfuscation, Payload Logic, Static & Dynamic Analysis
+  
+✦ APK Modding                ████████████████████ 100%  
+  ‣ Reverse Engineering, Smali Rebuilds, Signature Bypass
+  
+✦ DDoS / R-DDoS Ops          ███████████████████░  95%
+  ‣ Flood Scripts, Proxy Chains, Server-Load Attacks
+  
+✦ Web Exploits               ██████████████████░░  90%
+  ‣ XSS, LFI, Auth Bypass
+  
+✦ Pentesting                 ██████████████████░░  90%
+  ‣ Nmap Recon, BurpSuite, Wireshark
+  
+✦ Network Tools              █████████████████░░░  85%
+  ‣ Packet Injection, ARP Spoofing, VPN Cloaking
+  
+✦ Reverse Engineering        █████████████████░░░  85%
+  ‣ Binary Debugging, String Table Analysis
+  
+✦ Social Engineering         ████████████████░░░░  80%
+  ‣ Phishing Kits, Behavioral Pretexting
+  
+✦ Botnet Logic               ████████████████░░░░  80%
+  ‣ Telegram API Sync, Script Chaining
+  
+✦ Dark Web Ops               ███████████████░░░░░  75%
+  ‣ Tails OS, Hidden Services, OPSEC Layers
+```
+
+### 🟢 **Development Stack**
+```
+✦ Python                     ████████████████████ 100%
+  ‣ AI Bots, Telegram Scripts, Automation Tools
+  
+✦ Rust                       ██████████████████░░  90%
+  ‣ High-Speed CLI Tools, Memory-Safe Backends
+  
+✦ C / C++ / C#               █████████████████░░░  85%
+  ‣ Memory Management, Payload Simulators, Reverse-Shell Tools
+  
+✦ Web Stack                  █████████████████░░░  85%
+  ‣ HTML, CSS, JavaScript | Web UI Craft, Injection Sandbox
+  
+✦ React                      ████████████████░░░░  80%
+  ‣ Hook Systems, Frontend Components
+  
+✦ Kotlin                     ███████████████░░░░░  75%
+  ‣ Android Mods, Native App Exploits
+```
+
+---
+
+## 💀 `cat motto.txt`
+
+<div align="center">
+
+```bash
+┌─[phantom@terminal]─[~/philosophy]
+└──╼ $ cat hacker_philosophy.txt
+```
+
+> 🔐 **"Code isn't just logic. It's a weapon."**  
+> 💥 **"Real hackers build, break, and never beg."**  
+> ♻️ **"Learn. Automate. Repeat. Outgrow them all."**  
+> 🕶️ **"Noise talks. Silence strikes."**
+
+</div>
+
+---
+
+## 📡 `./connect.sh`
+
+```bash
+┌─[xeyronox@phantom]─[~/contact]
+└──╼ $ ls -la communication/
+```
+
+<div align="center">
+
+| Channel | Address | Status |
+|---------|---------|--------|
+| 📧 **Email** | `xeyronox@outlook.com` | `🟢 ACTIVE` |
+| 📷 **Instagram** | `@xeyronox` | `🟢 ACTIVE` |
+| 🌐 **Website** | `https://xeyronox-shop.vercel.app/` | `🟢 ONLINE` |
+| 📡 **HackerOne** | `https://hackerone.com/xeyronox` | `🟢 HUNTING` |
+| 🐙 **GitHub** | `https://github.com/Xeyronox` | `🟢 PUSHING` |
+
+</div>
+
+---
+
+## 🎯 `./activity_log.sh`
+
+```bash
+┌─[xeyronox@phantom]─[~/ops]
+└──╼ $ tail -f recent_operations.log
+```
+
+<div align="center">
+
+```
+[2024-11-XX] ✅ Latest Ops Executed:
+├── Private Bug Bounty Reports submitted ☠️
+├── Building Crypto & Forex Automation Scripts 📊  
+└── New PoC written in Rust & Python for Telegram Botnets ⚔
+
+[CURRENT-STATUS] 🔴 DEEP-WIRED MODE ACTIVATED
+├── ✔️ Bug Bounty Submissions (HackerOne)
+├── ✔️ Crypto/Forex Trading Automation Research  
+├── ✔️ Telegram Botnet & Script Stack in Test Suite
+└── ✔️ Private Exploit Repo Synchronization 👨‍💻
+```
+
+</div>
+
+---
+
+## 📊 `./github_stats.sh`
+
+<div align="center">
+
+![Xeyronox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xeyronox&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeyronox&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xeyronox&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&currStreakLabel=00ff41)
+
+</div>
+
+---
+
+## 🌊 `./phantom_wave.sh`
+
+<div align="center">
+
+```
+     ╭─────────────────────────────────────────────────────────────────╮
+     │  🖤 Welcome to the Phantom Frequency 💚                        │
+     │  ═══════════════════════════════════════════════════════════════ │
+     │  "In a world of 1s and 0s, I choose to be the exception."      │
+     │                                                                 │
+     │  🔥 Currently Working On:                                       │
+     │  ├── Advanced Payload Obfuscation Techniques                   │
+     │  ├── AI-Powered Social Engineering Automation                  │
+     │  ├── Zero-Day Research & Responsible Disclosure               │
+     │  └── Next-Gen Cryptocurrency Trading Bots                     │
+     │                                                                 │
+     │  💀 Remember: "The best hack is the one never detected."       │
+     ╰─────────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 **Connect with the Phantom**
+
+[![Email](https://img.shields.io/badge/Email-xeyronox@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:xeyronox@outlook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@xeyronox-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xeyronox)
+[![Website](https://img.shields.io/badge/Website-xeyronox--shop.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://xeyronox-shop.vercel.app/)
+[![HackerOne](https://img.shields.io/badge/HackerOne-xeyronox-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/xeyronox)
+
+```bash
+┌─[END-OF-TRANSMISSION]─[xeyronox@phantom]
+└──╼ $ exit
+Connection to phantom frequency closed.
+```
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Xeyronox&color=00ff41&style=for-the-badge&label=PHANTOM+VISITORS)
+
+**© 2025 Xeyronox | Deep-Wired Phantom | All exploits reserved** 🖤💚
+
+</div>
