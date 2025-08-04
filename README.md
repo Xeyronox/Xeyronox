@@ -22,7 +22,7 @@
 
 ```bash
 xeyronox@phantom~$ whoami
-🧠 Name      : Xeyronox ll  
+🧠 Name      : Xeyronox   
 🎭 Alias     : Black/Red Hat Hacker 👨‍💻  
 📍 Location  : Deep-Wired | 🇮🇳 Phantom Frequency  
 🗣️ Comment   : Learning in Silence | Executing with Precision  
