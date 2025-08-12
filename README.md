@@ -80,26 +80,9 @@ xeyronox@phantom~$ whoami
   ‣ Tails OS, Hidden Services, OPSEC Layers
 ```
 
-### 🟢 **Development Stack**
-```
-✦ Python                     ████████████████████ 100%
-  ‣ AI Bots, Telegram Scripts, Automation Tools
-  
-✦ Rust                       ██████████████████░░  90%
-  ‣ High-Speed CLI Tools, Memory-Safe Backends
-  
-✦ C / C++ / C#               █████████████████░░░  85%
-  ‣ Memory Management, Payload Simulators, Reverse-Shell Tools
-  
-✦ Web Stack                  █████████████████░░░  85%
-  ‣ HTML, CSS, JavaScript | Web UI Craft, Injection Sandbox
-  
-✦ React                      ████████████████░░░░  80%
-  ‣ Hook Systems, Frontend Components
-  
-✦ Kotlin                     ███████████████░░░░░  75%
-  ‣ Android Mods, Native App Exploits
-```
+
+### 🛠️ **Tech Stack & Tools**  
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,linux,bash,mysql,,git,github,kotlin,java,supabase,html,css" alt="Tech Stack" /> </p>
 
 ---
 
