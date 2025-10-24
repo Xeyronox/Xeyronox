@@ -1,217 +1,226 @@
-# 🖤 Xeyronox | Deep-Wired Phantom 💚
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ██╗  ██╗███████╗██╗   ██╗██████╗  ██████╗ ███╗   ██╗ ██████╗ ██╗  ██╗
+║   ╚██╗██╔╝██╔════╝╚██╗ ██╔╝██╔══██╗██╔═══██╗████╗  ██║██╔═══██╗╚██╗██╔╝
+║    ╚███╔╝ █████╗   ╚████╔╝ ██████╔╝██║   ██║██╔██╗ ██║██║   ██║ ╚███╔╝ 
+║    ██╔██╗ ██╔══╝    ╚██╔╝  ██╔══██╗██║   ██║██║╚██╗██║██║   ██║ ██╔██╗ 
+║   ██╔╝ ██╗███████╗   ██║   ██║  ██║╚██████╔╝██║ ╚████║╚██████╔╝██╔╝ ██╗
+║   ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-```ascii
-██╗  ██╗███████╗██╗   ██╗██████╗  ██████╗ ███╗   ██╗ ██████╗ ██╗  ██╗
-██║  ██║██╔════╝╚██╗ ██╔╝██╔══██╗██╔═══██╗████╗  ██║██╔═══██╗╚██╗██╔╝
-███████║█████╗   ╚████╔╝ ██████╔╝██║   ██║██╔██╗ ██║██║   ██║ ╚███╔╝ 
-██╔══██║██╔══╝    ╚██╔╝  ██╔══██╗██║   ██║██║╚██╗██║██║   ██║ ██╔██╗ 
-██║  ██║███████╗   ██║   ██║  ██║╚██████╔╝██║ ╚████║╚██████╔╝██╔╝ ██╗
-╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
-                        [ Black/Red Hat Hacker ]
+### `[ SYSTEM INITIALIZATION... ]`
+
+```
+> Loading Profile...
+> Decrypting Neural Pathways...
+> Status: ONLINE ✓
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Learning+in+Silence+%7C+Executing+with+Precision;Real+hackers+build%2C+break%2C+and+never+beg;Code+isn't+just+logic.+It's+a+weapon." alt="Typing SVG" />
+**`🎭 CODENAME:`** `Xeyronox`  
+**`📡 SIGNAL:`** `Deep-Wired | 🇮🇳 Phantom Frequency`  
+**`⚡ STATUS:`** `Cybersecurity Researcher | Trader | Code Architect`  
+**`🧠 MINDSET:`** `Overthinking → Next Level Execution`
+
+```diff
++ "Learning in Silence | Executing with Precision"
+! "The mind that overthinks is the mind that outthinks"
+```
 
 </div>
 
 ---
 
-## 🕴️ `whoami`
+## `[ NEURAL NETWORK STACK ]`
+
+<details>
+<summary><b>⚡ CORE PROGRAMMING MODULES</b></summary>
+
+```python
+class SkillSet:
+    def __init__(self):
+        self.languages = {
+            "Python": ["AI Chatbots", "Telegram Bots", "Automation", "API Integration"],
+            "Rust": ["High-Performance CLI", "Memory-Safe Systems"],
+            "C/C#": ["Low-Level Programming", "Memory Management"],
+            "JavaScript": ["React", "Modern Web Apps", "Frontend Engineering"],
+            "Web_Stack": ["HTML", "CSS", "Responsive Design"]
+        }
+```
+
+**`🐍 Python`**  
+├─ AI Chatbots & Automation  
+├─ Telegram Bot Development  
+└─ API Integration & Scripting
+
+**`⚙️ Rust`**  
+├─ High-Performance CLI Tools  
+└─ Memory-Safe System Programming
+
+**`🔧 C / C#`**  
+├─ Low-Level Programming  
+└─ Memory Management & System Development
+
+**`⚛️ JavaScript & React`**  
+├─ Modern Web Applications  
+├─ React Hooks & Components  
+└─ Frontend Architecture
+
+</details>
+
+<details>
+<summary><b>🛡️ SECURITY RESEARCH PROTOCOLS</b></summary>
 
 ```bash
-xeyronox@phantom~$ whoami
-🧠 Name      : Xeyronox   
-🎭 Alias     : Black/Red Hat Hacker 👨‍💻  
-📍 Location  : Deep-Wired | 🇮🇳 Phantom Frequency  
-🗣️ Comment   : Learning in Silence | Executing with Precision  
+┌─[xeyronox@security]─[~/research]
+└──╼ $ cat security_stack.txt
 ```
 
-<div align="center">
+**`🔍 Malware Analysis`**  
+├─ Static Code Analysis  
+├─ Dynamic Behavior Research  
+└─ Obfuscation Techniques Study
 
-![Matrix](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+**`📱 Application Security`**  
+├─ APK Security Auditing  
+├─ Mobile App Analysis  
+└─ Code Review & Assessment
 
-</div>
+**`🌐 Web Security Research`**  
+├─ XSS Vector Analysis  
+├─ Local File Inclusion Study  
+└─ Authentication Flow Research
+
+**`🔬 Reverse Engineering`**  
+├─ Binary Analysis  
+├─ Debugging Techniques  
+└─ Assembly Understanding
+
+**`🌐 Network Security`**  
+├─ Packet Analysis  
+├─ Protocol Research  
+└─ Traffic Inspection
+
+**`🔐 Security Arsenal`**  
+├─ Nmap (Reconnaissance)  
+├─ Wireshark (Traffic Analysis)  
+└─ BurpSuite (Web Testing)
+
+</details>
+
+<details>
+<summary><b>💻 OPERATING SYSTEMS</b></summary>
+
+```yaml
+environment:
+  daily_drivers:
+    - name: "Windows 11 Pro"
+      role: "Primary Workstation"
+    - name: "Fedora Workstation"
+      role: "AI Development Lab"
+  
+  testing:
+    - name: "Parrot OS"
+      role: "Security Testing (Guest VM)"
+  
+  future:
+    - name: "BlackArch Linux"
+      status: "Monitoring stability improvements"
+```
+
+</details>
 
 ---
 
-## ⚔️ `cat skills.txt`
+## `[ ACTIVE OPERATIONS ]`
 
-<div align="center">
+```javascript
+const currentMission = {
+    focus: [
+        "🧠 Advancing Cybersecurity Research",
+        "📈 Market Analysis & Trading",
+        "⚡ Automation Framework Development",
+        "🔬 Security Analysis Projects",
+        "📖 Silent Learning Protocol: ACTIVE"
+    ],
+    mindset: "Overthinking is not a bug—it's a feature for next-level execution"
+};
+```
+
+---
+
+## `[ CLASSIFIED PROJECTS ]`
+
+```
+[████████████████████] 45% COMPLETE
+```
+
+### `🤖 PROJECT_001: VOICE_AI_AGENT`
+**`STATUS:`** `IN_DEVELOPMENT`  
+**`DESC:`** Personal AI Voice Agent - Voice-controlled assistant for intelligent task automation
+
+### `📹 PROJECT_002: YT_AUTOMATION_PIPELINE`
+**`STATUS:`** `IN_DEVELOPMENT`  
+**`DESC:`** Complete YouTube automation - generation, editing, uploading, management
+
+```diff
+! Expected Public Release: MID_2026
+```
+
+---
+
+## `[ CREDENTIALS ]`
+
+```
+[✓] DELOITTE CYBERSECURITY CERTIFICATE
+```
+
+---
+
+## `[ PHILOSOPHY.SH ]`
 
 ```bash
-┌─[xeyronox@phantom]─[~/arsenal]
-└──╼ $ ./skill_scanner.sh --deep-scan
+#!/bin/bash
+echo "Code isn't just logic—it's craft and weapon combined"
+echo "The overthinking mind sees what others miss"
+echo "Learn. Automate. Repeat. Transcend."
+echo "Silence speaks. Precision strikes."
 ```
-
-</div>
-
-### 🔴 **Red Team Arsenal**
-```
-✦ Malware Engineering        ████████████████████ 100%
-  ‣ Obfuscation, Payload Logic, Static & Dynamic Analysis
-  
-✦ APK Modding                ████████████████████ 100%  
-  ‣ Reverse Engineering, Smali Rebuilds, Signature Bypass
-  
-✦ DDoS / R-DDoS Ops          ███████████████████░  95%
-  ‣ Flood Scripts, Proxy Chains, Server-Load Attacks
-  
-✦ Web Exploits               ██████████████████░░  90%
-  ‣ XSS, LFI, Auth Bypass
-  
-✦ Pentesting                 ██████████████████░░  90%
-  ‣ Nmap Recon, BurpSuite, Wireshark
-  
-✦ Network Tools              █████████████████░░░  85%
-  ‣ Packet Injection, ARP Spoofing, VPN Cloaking
-  
-✦ Reverse Engineering        █████████████████░░░  85%
-  ‣ Binary Debugging, String Table Analysis
-  
-✦ Social Engineering         ████████████████░░░░  80%
-  ‣ Phishing Kits, Behavioral Pretexting
-  
-✦ Botnet Logic               ████████████████░░░░  80%
-  ‣ Telegram API Sync, Script Chaining
-  
-✦ Dark Web Ops               ███████████████░░░░░  75%
-  ‣ Tails OS, Hidden Services, OPSEC Layers
-```
-
-
-### 🛠️ **Tech Stack & Tools**  
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,linux,bash,mysql,,git,github,kotlin,java,supabase,html,css" alt="Tech Stack" /> </p>
 
 ---
 
-## 💀 `cat motto.txt`
-
-<div align="center">
-
-```bash
-┌─[phantom@terminal]─[~/philosophy]
-└──╼ $ cat hacker_philosophy.txt
-```
-
-> 🔐 **"Code isn't just logic. It's a weapon."**  
-> 💥 **"Real hackers build, break, and never beg."**  
-> ♻️ **"Learn. Automate. Repeat. Outgrow them all."**  
-> 🕶️ **"Noise talks. Silence strikes."**
-
-</div>
-
----
-
-## 📡 `./connect.sh`
-
-```bash
-┌─[xeyronox@phantom]─[~/contact]
-└──╼ $ ls -la communication/
-```
-
-<div align="center">
-
-| Channel | Address | Status |
-|---------|---------|--------|
-| 📧 **Email** | `xeyronox@outlook.com` | `🟢 ACTIVE` |
-| 📷 **Instagram** | `@xeyronox` | `🟢 ACTIVE` |
-| 🌐 **Website** | `https://xeyronox-shop.vercel.app/` | `🟢 ONLINE` |
-| 📡 **HackerOne** | `https://hackerone.com/xeyronox` | `🟢 HUNTING` |
-| 🐙 **GitHub** | `https://github.com/Xeyronox` | `🟢 PUSHING` |
-
-</div>
-
----
-
-## 🎯 `./activity_log.sh`
-
-```bash
-┌─[xeyronox@phantom]─[~/ops]
-└──╼ $ tail -f recent_operations.log
-```
-
-<div align="center">
+## `[ TRANSMISSION CHANNELS ]`
 
 ```
-[2025-07-01] ✅ Latest Ops Executed:
-├── Private Bug Bounty Reports submitted ☠️
-├── Building Crypto & Forex Automation Scripts 📊  
-└── New PoC written in Rust & Python for Telegram Botnets ⚔
-
-[CURRENT-STATUS] 🔴 DEEP-WIRED MODE ACTIVATED
-├── ✔️ Bug Bounty Submissions (HackerOne)
-├── ✔️ Crypto/Forex Trading Automation Research  
-├── ✔️ Telegram Botnet & Script Stack in Test Suite
-└── ✔️ Private Exploit Repo Synchronization 👨‍💻
+┌─────────────────────────────────────┐
+│ ESTABLISHING SECURE CONNECTION...  │
+└─────────────────────────────────────┘
 ```
 
-</div>
-
----
-
-## 📊 `./github_stats.sh`
-
-<div align="center">
-
-![Xeyronox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xeyronox&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeyronox&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xeyronox&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&currStreakLabel=00ff41)
-
-</div>
-
----
-
-## 🌊 `./phantom_wave.sh`
-
-<div align="center">
-
-```
-     ╭─────────────────────────────────────────────────────────────────╮
-     │  🖤 Welcome to the Phantom Frequency 💚                        │
-     │  ═══════════════════════════════════════════════════════════════ │
-     │  "In a world of 1s and 0s, I choose to be the exception."      │
-     │                                                                 │
-     │  🔥 Currently Working On:                                       │
-     │  ├── Advanced Payload Obfuscation Techniques                   │
-     │  ├── AI-Powered Social Engineering Automation                  │
-     │  ├── Zero-Day Research & Responsible Disclosure               │
-     │  └── Next-Gen Cryptocurrency Trading Bots                     │
-     │                                                                 │
-     │  💀 Remember: "The best hack is the one never detected."       │
-     ╰─────────────────────────────────────────────────────────────────╯
-```
-
-</div>
+**`📧 EMAIL:`** xeyronox@outlook.com  
+**`📷 INSTAGRAM:`** [@xeyronox](https://instagram.com/xeyronox)  
+**`🌐 WEBSITE:`** [xeyronox-shop.vercel.app](https://xeyronox-shop.vercel.app/)  
+**`🐙 GITHUB:`** [@Xeyronox](https://github.com/Xeyronox)
 
 ---
 
 <div align="center">
 
-### 🌐 **Connect with the Phantom**
-
-[![Email](https://img.shields.io/badge/Email-xeyronox@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:xeyronox@outlook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@xeyronox-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xeyronox)
-[![Website](https://img.shields.io/badge/Website-xeyronox--shop.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://xeyronox-shop.vercel.app/)
-[![HackerOne](https://img.shields.io/badge/HackerOne-xeyronox-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/xeyronox)
-
-```bash
-┌─[END-OF-TRANSMISSION]─[xeyronox@phantom]
-└──╼ $ exit
-Connection to phantom frequency closed.
+```
+════════════════════════════════════════════════
+    "The mind that overthinks is the mind  
+         that architects the future"
+════════════════════════════════════════════════
 ```
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Xeyronox&color=green&style=flat-square)
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Xeyronox&color=00ff41&style=for-the-badge&label=PHANTOM+VISITORS)
-
-**© 2025 Xeyronox | Deep-Wired Phantom | All exploits reserved** 🖤💚
+```
+[END_TRANSMISSION]
+```
 
 </div>
