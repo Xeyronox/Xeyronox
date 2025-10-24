@@ -15,7 +15,7 @@
 + "Learning in Silence | Executing with Precision"
 ```
 
-[![Website](https://img.shields.io/badge/Website-xeyronox-blue?style=flat-square)](https://xeyronox-shop.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-xeyronox-blue?style=flat-square)](https://xeyronox.github.io/Portfolio_Web/)
 [![Instagram](https://img.shields.io/badge/Instagram-@xeyronox-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/xeyronox)
 [![Email](https://img.shields.io/badge/Email-xeyronox@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:xeyronox@outlook.com)
 
